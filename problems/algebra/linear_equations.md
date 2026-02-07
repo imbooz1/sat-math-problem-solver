@@ -2,7 +2,7 @@
 
 > Practice problems from [IrfanEdu.com](https://irfanedu.com)
 
----
+--- 
 
 ## Problem 1: Basic Linear Equation
 
