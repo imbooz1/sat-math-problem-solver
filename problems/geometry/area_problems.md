@@ -3,7 +3,7 @@
 > Practice problems from [IrfanEdu.com](https://irfanedu.com)
 
 ---
-
+ 
 ## Problem 1: Rectangle Area
 
 A rectangle has a length of 12 cm and a width of 8 cm. What is its area?
